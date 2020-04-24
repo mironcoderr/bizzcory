@@ -1,0 +1,1277 @@
+@media (max-width: 575px){
+    
+    h1{
+        font-size: 30px !important;
+    }
+    
+    h2{
+        font-size: 22px !important;
+        margin-bottom: 25px !important;
+    }
+    
+    h4{
+        font-size: 18px !important;
+        margin: 30px 0px 10px 0px !important;
+    }
+    
+    p{
+        font-size: 14px !important;
+    }
+    
+    .top_btn i{
+        width: 45px;
+        height: 45px;
+        line-height: 45px;
+        text-align: center;
+        font-size: 20px
+    }
+    /*===================================
+              MENU PART START
+    ====================================*/
+    .navbar{
+        padding: 12px 0px !important;
+    }
+    
+    .navbar a img{
+        width: 134px;
+        height: 34px;
+        margin-left: 15px;
+    }
+    
+    .navbar button i{
+        color: #c58bea;
+        font-size: 18px;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        text-align: center;
+        border: 1px solid #c58bea;
+    }
+    
+    .navbar button:focus{
+        outline: none;
+    }
+    
+    .navbar-collapse{
+        background: #c58bea;
+        padding: 20px 0px 30px;
+    }
+    
+    .navbar ul li{
+        margin: 0 auto !important;
+    }
+    
+    .navbar ul li a{
+        color: #fff;
+        font-size: 16px;
+    }
+    
+    .navbar ul li.active a{
+        color: #fff;
+    }
+    
+    .navbar a.get_btn{
+        background: #fff;
+        color: #c58bea;
+        margin: 10px auto 0px;
+        font-size: 16px;
+    }
+    /*===================================
+               MENU PART END
+    ====================================*/
+    
+    
+    
+    /*===================================
+               BANNER PART START
+    ====================================*/
+    #banner_part{
+        padding: 0px 0px 60px;
+    }
+    
+    .banner_text{
+        padding-top: 120px;
+        text-align: center;
+    }
+    
+    .banner_text a{
+        font-size: 16px;
+    }
+    
+    .banner_text a{
+        font-size: 15px;
+    }
+    
+    .banner_img img{
+        display: none;
+    }
+    /*===================================
+               BANNER PART END
+    ====================================*/
+    
+    
+    
+    /*===================================
+               ABOUT PART START
+    ====================================*/
+    #about_part{
+        padding: 80px 0px;
+    }
+    
+    .about_text{
+        text-align: center;
+    }
+    
+    .about_img img{
+        margin: 0;
+    }
+    
+    .about_text p span{
+        margin-top: 20px;
+    }
+    
+    .about_text a{
+        margin-top: 35px;
+        font-size: 16px;
+    }
+    
+    .about_text a i{
+        font-size: 15px;
+    }
+    /*===================================
+               ABOUT PART END
+    ====================================*/
+    
+    
+    
+    /*===================================
+               SERVICE PART START
+    ====================================*/
+    #service_part{
+        padding: 20px 0px;
+    }
+    
+    .service_heading h2{
+        margin-bottom: 35px !important;
+    }
+    
+    .service{
+        text-align: center;
+    }
+    
+    .service h3{
+        font-size: 18px;
+        margin-bottom: 15px !important;
+    }
+    
+    .service p{
+        margin-bottom: 25px !important;
+    }
+    
+    .service_icon{
+        margin: 0 auto 20px;
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+        text-align: center;
+    }
+    
+    .service_icon i{
+        font-size: 20px;
+    }
+    
+    .service_ghape{
+        margin: 0;
+    }
+    /*===================================
+               SERVICE PART END
+    ====================================*/
+    
+    
+    
+    /*===================================
+             PROTFOLIO PART START
+    ====================================*/
+    #prot_part{
+        padding: 50px 0px;
+    }
+    
+    .prot_respons{
+        margin-bottom: 30px;
+    }
+    
+    .prot_overlay h5{
+        font-size: 18px;
+    }
+    
+     .prot_btn a{
+        margin-top: 5px;
+        font-size: 16px;
+    }
+    
+    .prot_btn a i{
+        font-size: 15px;
+    }
+    /*===================================
+              PROTFOLIO PART END
+    ====================================*/
+    
+    
+    
+    /*===================================
+              TEAM PART START
+    ====================================*/
+
+    #team_part{
+        padding: 20px 0px 30px;
+    }
+    
+    .team_member{
+        margin: 15px 0px;
+    }
+    /*===================================
+               TEAM PART END
+    ====================================
+    
+    
+    
+    /*===================================
+               VIDEO PART START
+    ====================================*/
+    .video{
+        transform: translateY(80px);
+    }
+    
+    .video img{
+        height: auto;
+    }
+    
+    .video_overlay a i{
+        width: 60px;
+        height: 60px;
+        line-height: 60px;
+        text-align: center;
+        font-size: 16px;
+    }
+    
+    .video_overlay h5{
+        font-size: 18px;
+        top: 80%;
+    }
+    /*===================================
+                VIDEO PART END
+    ====================================*/
+    
+    
+    
+   /*===================================
+             COUNTER PART START
+    ====================================*/
+    .counter_shape{
+        padding: 150px 0px 50px;
+    }
+    
+    .count{
+        margin-bottom: 30px;
+    }
+    /*===================================
+              COUNTER PART END
+    ====================================*/
+    
+    
+    
+    /*===================================
+            TESTIMONIAL PART START
+    ====================================*/
+    #testi_part{
+        padding: 50px 0px;
+    }
+    
+    .testi_content{
+        padding: 20px 10px;
+    }
+    
+    .testi_content img{
+        margin: 0px 0px 15px 0px;
+    }
+    
+    .rating{
+        left: 75%;
+    }
+    
+    .dandik{
+        top: 105%;
+        left: 60%;
+        transform: translateX(-50%);
+        color: #c58bea;
+        background: #fff;
+        border: 1px solid #c58bea;
+        box-shadow: none;
+    }
+    
+    .bamdik{
+        top: 105%;
+        left: 40%;
+        transform: translateX(-50%);
+        color: #c58bea;
+        background: #fff;
+        border: 1px solid #c58bea;
+        box-shadow: none;
+    }
+    /*===================================
+             TESTIMONIAL PART END
+    ====================================*/
+    
+    
+    
+    /*===================================
+             PRICE PART START
+    ====================================*/
+    #price_part{
+        padding: 50px 0px;
+    }
+    
+    .price_btn a{
+        margin-top: 5px;
+        font-size: 16px;
+    }
+    
+    .price_btn a i{
+        font-size: 15px;
+    }
+    
+    .price_div{
+        margin: 20px 0px;
+    }
+    /*===================================
+              PRICE PART END
+    ====================================*/
+    
+    
+    
+    /*===================================
+              PRODUCT PART START
+    ====================================*/
+    #product_part{
+        padding: 0px 0px 50px;
+    }
+    
+    .product{
+        height: 180px;
+    }
+    
+    .product_text h5{
+        margin: 28px 10px 30px 10px !important;
+        font-size: 18px;
+        text-align: center;
+    }
+    
+    .product_btn{
+        text-align: center;
+    }
+    
+    .product_btn a{
+        margin: 0px;
+        font-size: 16px;
+    }
+    
+    .product_btn a i{
+        font-size: 15px;
+    }
+    /*===================================
+              PRODUCT PART END
+    ====================================*/
+    
+    
+    
+    /*===================================
+              FOOTER PART START
+    ====================================*/
+    #footer_part{
+        padding: 50px 0px 15px;
+    }
+    
+    .footer_logo img{
+        width: 150px;
+    }
+    
+    .footer_menu ul li{
+        display: block;
+        margin: 20px 0px !important;
+    }
+    
+    .footer_menu ul li a{
+        font-size: 18px;
+    }
+    
+    .footer_icon{
+        padding: 20px 0px 40px;
+    }
+    
+    .footer_icon ul li{
+        margin: 0px 5px !important;
+    }
+    
+    .footer_icon ul li a i{
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        text-align: center;
+        font-size: 16px;
+    }
+    /*===================================
+               FOOTER PART END
+    ====================================*/
+    
+}
+
+
+
+
+
+@media (min-width: 576px) and (max-width: 767px) {
+    /*===================================
+            COMMON CSS PART START
+    ====================================*/
+    h1{
+        font-size: 25px !important;
+    }
+    
+    h2{
+        font-size: 30px !important;
+        margin-bottom: 50px !important;
+    }
+    
+    h4{
+        font-size: 18px !important;
+        margin: 30px 0px 10px 0px !important;
+    }
+    
+    p{
+        font-size: 15px !important;
+    }
+    /*===================================
+            COMMON CSS PART START
+    ====================================*/
+    
+    
+    
+    /*===================================
+              MENU PART START
+    ====================================*/
+    .navbar{
+        padding: 12px 0px !important;
+    }
+    
+    .navbar a img{
+        width: 134px;
+        height: 34px;
+        margin-left: 15px;
+    }
+    
+    .navbar button i{
+        color: #c58bea;
+        font-size: 18px;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        text-align: center;
+        border: 1px solid #c58bea;
+    }
+    
+    .navbar button:focus{
+        outline: none;
+    }
+    
+    .navbar-collapse{
+        background: #c58bea;
+        padding: 20px 0px 30px;
+    }
+    
+    .navbar ul li{
+        margin: 0 auto !important;
+    }
+    
+    .navbar ul li a{
+        color: #fff;
+        font-size: 16px;
+    }
+    
+    .navbar ul li.active a{
+        color: #fff;
+    }
+    
+    .navbar a.get_btn{
+        background: #fff;
+        color: #c58bea;
+        margin: 10px auto 0px;
+        font-size: 16px;
+    }
+    /*===================================
+               MENU PART END
+    ====================================*/
+    
+    
+    
+    /*===================================
+               BANNER PART START
+    ====================================*/
+    #banner_part{
+        padding: 130px 0px 70px;
+    }
+    
+    .banner_text{
+        padding-top: 0px;
+    }
+    
+    .banner_text a{
+        font-size: 16px;
+    }
+    
+    .banner_text a i{
+        font-size: 15px;
+    }
+    
+    .banner_img img{
+        padding-top: 0px;
+    }
+    /*===================================
+               BANNER PART END
+    ====================================*/
+    
+    
+    
+    /*===================================
+               ABOUT PART START
+    ====================================*/
+    #about_part{
+        padding: 80px 0px;
+    }
+    
+    .about_text{
+        text-align: center;
+    }
+    
+    .about_img img{
+        margin: 0;
+    }
+    
+    .about_text p span{
+        margin-top: 20px;
+    }
+    
+    .about_text a{
+        margin-top: 35px;
+        font-size: 16px;
+    }
+    
+    .about_text a i{
+        font-size: 15px;
+    }
+    /*===================================
+               ABOUT PART END
+    ====================================*/
+    
+    
+    
+    /*===================================
+               SERVICE PART START
+    ====================================*/
+    #service_part{
+        padding: 20px 0px;
+    }
+    
+    .service{
+        text-align: center;
+    }
+    
+    .service h3{
+        font-size: 20px;
+        margin-bottom: 15px !important;
+    }
+    
+    .service p{
+        margin-bottom: 30px !important;
+    }
+    
+    .service_icon{
+        margin: 0 auto 20px;
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+        text-align: center;
+    }
+    
+    .service_icon i{
+        font-size: 20px;
+    }
+    
+    .service_ghape{
+        margin: 0;
+    }
+    
+    .miron_block{
+        display: block;
+    }
+    
+    .hasan_block{
+        display: none;
+    }
+    /*===================================
+               SERVICE PART END
+    ====================================*/
+    
+    
+    
+    /*===================================
+             PROTFOLIO PART START
+    ====================================*/
+    #prot_part{
+        padding: 50px 0px;
+    }
+    
+    .prot_respons{
+        margin-bottom: 30px;
+    }
+    
+    .prot_btn a{
+        margin-top: 5px;
+        font-size: 16px;
+    }
+    
+    .prot_btn a i{
+        font-size: 15px;
+    }
+    
+    .prot_small img{
+        height: auto;
+    }
+    
+    .prot_big img{
+        height: auto;
+    }
+    
+    .prot_overlay h5{
+        font-size: 18px;
+    }
+    /*===================================
+              PROTFOLIO PART END
+    ====================================*/
+    
+    
+    
+    /*===================================
+              TEAM PART START
+    ====================================*/
+    #team_part{
+        padding: 20px 0px 30px;
+    }
+    
+    .team_member{
+        margin: 15px 0px;
+    }
+    /*===================================
+               TEAM PART END
+    ====================================*/
+    
+    
+    
+    /*===================================
+               VIDEO PART START
+    ====================================*/
+    .video{
+        transform: translateY(80px);
+    }
+    
+    .video img{
+        height: auto;
+    }
+    
+    .video_overlay a i{
+        width: 80px;
+        height: 80px;
+        line-height: 80px;
+        text-align: center;
+        font-size: 20px;
+    }
+    
+    .video_overlay h5{
+        font-size: 25px;
+        top: 73%;
+    }
+    /*===================================
+                VIDEO PART END
+    ====================================*/
+    
+    
+    
+   /*===================================
+             COUNTER PART START
+    ====================================*/
+    .counter_shape{
+        padding: 150px 0px 50px;
+    }
+    
+    .count{
+        margin-bottom: 30px;
+    }
+    /*===================================
+              COUNTER PART END
+    ====================================*/
+    
+    
+    
+    /*===================================
+            TESTIMONIAL PART START
+    ====================================*/
+    #testi_part{
+        padding: 50px 0px;
+    }
+    
+    .testi_content{
+        padding: 20px 10px;
+    }
+    
+    .testi_content img{
+        margin: 0px 0px 15px 0px;
+    }
+    
+    .rating{
+        left: 64%;
+    }
+    
+    .dandik{
+        top: 105%;
+        left: 56%;
+        transform: translateX(-50%);
+        color: #c58bea;
+        background: #fff;
+        border: 1px solid #c58bea;
+        box-shadow: none;
+    }
+    
+    .bamdik{
+        top: 105%;
+        left: 44%;
+        transform: translateX(-50%);
+        color: #c58bea;
+        background: #fff;
+        border: 1px solid #c58bea;
+        box-shadow: none;
+    }
+    /*===================================
+             TESTIMONIAL PART END
+    ====================================*/
+    
+    
+    
+    /*===================================
+             PRICE PART START
+    ====================================*/
+    #price_part{
+        padding: 50px 0px;
+    }
+    
+    .price_btn a{
+        margin-top: 5px;
+        font-size: 16px;
+    }
+    
+    .price_btn a i{
+        font-size: 15px;
+    }
+    
+    .price_div{
+        margin: 20px 0px;
+    }
+    /*===================================
+              PRICE PART END
+    ====================================*/
+    
+    
+    
+    /*===================================
+              PRODUCT PART START
+    ====================================*/
+    #product_part{
+        padding: 0px 0px 50px;
+    }
+    
+    .product{
+        height: 250px;
+    }
+    
+    .product_text h5{
+        margin: 50px 10px 30px 10px !important;
+        font-size: 25px;
+        text-align: center;
+    }
+    
+    .product_btn{
+        text-align: center;
+    }
+    
+    .product_btn a{
+        margin: 0px;
+        font-size: 16px;
+    }
+    
+    .product_btn a i{
+        font-size: 15px;
+    }
+    /*===================================
+              PRODUCT PART END
+    ====================================*/
+    
+    
+    
+    /*===================================
+              FOOTER PART START
+    ====================================*/
+    #footer_part{
+        padding: 50px 0px 15px;
+    }
+    
+    .footer_menu ul li{
+        margin: 30px 10px !important;
+    }
+    
+    .footer_menu ul li a{
+        font-size: 16px;
+    }
+    
+    .footer_icon{
+        padding: 20px 0px 40px;
+    }
+    
+    .footer_icon ul li{
+        margin: 0px 10px !important;
+    }
+    /*===================================
+               FOOTER PART END
+    ====================================*/
+    
+}
+
+
+
+
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+    
+    h1{
+        font-size: 35px !important;
+    }
+    
+    h2{
+        font-size: 30px !important;
+        margin-bottom: 50px !important;
+    }
+    
+    h4{
+        font-size: 18px !important;
+        margin: 30px 0px 10px 0px !important;
+    }
+    /*===================================
+              MENU PART START
+    ====================================*/
+    .navbar a img{
+        margin-left: 15px;
+    }
+    
+    .navbar button i{
+        color: #c58bea;
+        font-size: 18px;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        text-align: center;
+        border: 1px solid #c58bea;
+    }
+    
+    .navbar button:focus{
+        outline: none;
+    }
+    
+    .navbar-collapse{
+        background: #c58bea;
+        padding: 20px 0px 30px;
+    }
+    
+    .navbar ul li{
+        margin: 0 auto !important;
+    }
+    
+    .navbar ul li a{
+        color: #fff;
+        font-size: 16px;
+    }
+    
+    .navbar ul li.active a{
+        color: #fff;
+    }
+    
+    .navbar a.get_btn{
+        background: #fff;
+        color: #c58bea;
+        margin: 10px auto 0px;
+        font-size: 18px;
+    }
+    /*===================================
+               MENU PART END
+    ====================================*/
+    
+    
+    
+    /*===================================
+               BANNER PART START
+    ====================================*/
+    #banner_part{
+        padding: 0px 0px 80px;
+    }
+    
+    .banner_text{
+        padding-top: 160px;
+    }
+    
+    .banner_text a{
+        font-size: 18px;
+    }
+    
+    .banner_img img{
+        padding-top: 120px;
+        height: auto;
+    }
+    /*===================================
+               BANNER PART END
+    ====================================*/
+    
+    
+    
+    /*===================================
+               ABOUT PART START
+    ====================================*/
+    #about_part{
+        padding: 50px 0px 80px;
+    }
+    
+    .about_text{
+        text-align: left;
+    }
+    
+    .about_img img{
+        margin-top: 70px;
+        height: auto;
+    }
+    
+    .about_text p span{
+        margin-top: 20px;
+    }
+    
+    .about_text a{
+        margin-top: 35px;
+        font-size: 18px;
+    }
+    
+    .about_text h2{
+        margin-bottom: 30px !important;
+    }
+    /*===================================
+               ABOUT PART END
+    ====================================*/
+    
+    
+    
+    /*===================================
+               SERVICE PART START
+    ====================================*/
+    #service_part{
+        padding: 20px 0px;
+    }
+    
+    .service{
+        text-align: center;
+    }
+    
+    .service p{
+        font-size: 14px !important;
+    }
+    
+    .service h3{
+        font-size: 20px;
+        margin-bottom: 15px !important;
+    }
+    
+    .service p{
+        margin-bottom: 40px !important;
+    }
+    
+    .service_icon{
+        margin: 0 auto 20px;
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+        text-align: center;
+    }
+    
+    .service_icon i{
+        font-size: 20px;
+    }
+    
+    .service_ghape{
+        margin: 0;
+    }
+    /*===================================
+               SERVICE PART END
+    ====================================*/
+    
+    
+    
+    /*===================================
+             PROTFOLIO PART START
+    ====================================*/
+    #prot_part{
+        padding: 50px 0px;
+    }
+    
+    .prot_respons{
+        margin-bottom: 30px;
+    }
+    
+    .prot_small img{
+        height: auto;
+    }
+    
+    .prot_big img{
+        height: auto;
+    }
+    
+    .prot_overlay h5{
+        font-size: 16px;
+        left: 44px;
+        transform: translate(-0%);
+    }
+    
+    .prot_btn a{
+        margin-top: 20px;
+        font-size: 18px;
+    }
+    /*===================================
+              PROTFOLIO PART END
+    ====================================*/
+    
+    
+    
+    /*===================================
+              TEAM PART START
+    ====================================*/
+    #team_part{
+        padding: 20px 0px 30px;
+    }
+    
+    .team_member{
+        margin: 15px 0px;
+    }
+    /*===================================
+               TEAM PART END
+    ====================================*/
+    
+    
+    
+    /*===================================
+               VIDEO PART START
+    ====================================*/
+    .video{
+        transform: translateY(80px);
+    }
+    
+    .video img{
+        height: auto;
+    }
+    
+    .video_overlay a i{
+        width: 80px;
+        height: 80px;
+        line-height: 80px;
+        text-align: center;
+        font-size: 20px;
+    }
+    
+    .video_overlay h5{
+        font-size: 25px;
+    }
+    /*===================================
+                VIDEO PART END
+    ====================================*/
+    
+    
+    
+   /*===================================
+             COUNTER PART START
+    ====================================*/
+    .counter_shape{
+        padding: 150px 0px 50px;
+    }
+    
+    .count{
+        margin-bottom: 30px;
+    }
+    
+    .count h5{
+        font-size: 14px;
+    }
+    /*===================================
+              COUNTER PART END
+    ====================================*/
+    
+    
+    
+    /*===================================
+            TESTIMONIAL PART START
+    ====================================*/
+    #testi_part{
+        padding: 50px 0px 10px;
+    }
+    
+    .testi_content{
+        padding: 30px 80px;
+    }
+    
+    .testi_content img{
+        margin: 0px 0px 15px 0px;
+    }
+    
+    .rating{
+        left: 60%;
+    }
+    
+    .dandik{
+        right: 15px;
+    }
+    
+    .bamdik{
+        left: 15px;
+    }
+    /*===================================
+             TESTIMONIAL PART END
+    ====================================*/
+    
+    
+    
+    /*===================================
+             PRICE PART START
+    ====================================*/
+    #price_part{
+        padding: 50px 0px;
+    }
+    
+    .price_btn a{
+        margin-top: 5px;
+        font-size: 14px;
+    }
+    
+    .price_btn a i{
+        display: none;
+    }
+    
+    .price_div{
+        padding: 30px 12px;
+    }
+    
+    .price_div ul li{
+        font-size: 14px;
+    }
+    /*===================================
+              PRICE PART END
+    ====================================*/
+    
+    
+    
+    /*===================================
+              PRODUCT PART START
+    ====================================*/
+    #product_part{
+        padding: 50px 0px;
+    }
+    
+    .product_text h5{
+        font-size: 18px;
+        margin: 75px 0px 0px 60px !important;
+    }
+    
+    .product_btn a{
+        font-size: 18px;
+    }
+    /*===================================
+              PRODUCT PART END
+    ====================================*/
+    
+    
+    
+    /*===================================
+              FOOTER PART START
+    ====================================*/
+    #footer_part{
+        padding: 50px 0px 15px;
+    }
+    
+    .footer_menu ul li{
+        margin: 50px 20px !important;
+    }
+    
+    .footer_menu ul li a{
+        font-size: 18px;
+    }
+    /*===================================
+               FOOTER PART END
+    ====================================*/
+    
+}
+
+
+
+
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    
+    h1{
+        font-size: 48px !important;
+    }
+    
+    .navbar ul li a{
+        font-size: 14px;
+    }
+    
+    .banner_text{
+        padding-top: 180px;
+    }
+    
+    .video_overlay h5{
+        top: 70%;
+    }
+    
+    .rating{
+        left: 57%;
+    }
+    
+    .product_text h5{
+        font-size: 25px;
+        margin: 65px 0px 0px 60px !important;
+    }
+    
+    .prot_overlay h5{
+        font-size: 18px;
+    }
+    
+}
+
+
+
+
+
+
+
+
+
+
